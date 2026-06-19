@@ -1,4 +1,4 @@
-https://github.com/Ayaz2903/Procurement-Analysis-Dashboard/blob/main/PAGE%201.jpg
+
 # Procurement Analysis Dashboard (Power BI Data Analysis Project)
 
 ## Project Objective
@@ -58,7 +58,7 @@ This project provides a complete Power BI procurement dashboard designed to trac
 
 ## Dashboard Interaction
 
-<a href="(https://github.com/Ayaz2903/Procurement-Analysis-Dashboard/blob/main/PAGE%201.jpg)">View Dashboard</a>
+<a href="https://github.com/Ayaz2903/Procurement-Analysis-Dashboard/blob/main/PAGE%201.jpg">View Dashboard</a>
 
 ---
 
